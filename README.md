@@ -4,6 +4,8 @@
 
 [![Demo Video](MEDIA/Scrnshot.png)](https://www.youtube.com/watch?v=PMETeInC9rw)
 
+Click To Watch Video
+
 ## STM32 기반 USB DAC: 한국어 설명
 
 다른 레포지토리에서 확인할 수 있듯, 리던던시 이슈로 인해 졸업 작품을 두 개를 만들었습니다. 
