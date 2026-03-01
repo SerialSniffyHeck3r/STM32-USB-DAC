@@ -2,7 +2,7 @@
 
 
 
-[![Demo Video](MEDIA/Scrnshot.png)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=PMETeInC9rw))
+[![Demo Video](MEDIA/Scrnshot.png)](https://www.youtube.com/watch?v=PMETeInC9rw)
 
 ## STM32 기반 USB DAC: 한국어 설명
 
