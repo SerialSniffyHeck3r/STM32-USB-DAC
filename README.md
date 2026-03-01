@@ -1,4 +1,8 @@
-# USB Audio DAC with Spectrum Visualizer & Env Display (STM32F4)
+# USB Audio DAC with Spectrum Visualizer Display (STM32F4)
+
+
+
+[![Demo Video](MEDIA/Screenshot 2026-03-01 220322.png)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=PMETeInC9rw))
 
 ## STM32 기반 USB DAC: 한국어 설명
 
